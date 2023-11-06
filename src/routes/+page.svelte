@@ -94,16 +94,16 @@
 		font-family: 'Playfair Display';
 		font-style: normal;
 		font-weight: 500;
-		src: url('PlayfairDisplay-Regular.ttf');
-		src: local(''), url('PlayfairDisplay-Regular.ttf') format('truetype');
+		src: url('/fonts/PlayfairDisplay-Regular.ttf');
+		src: local(''), url('/fonts/PlayfairDisplay-Regular.ttf') format('truetype');
 	}
 
 	@font-face {
 		font-family: 'Playfair Display';
 		font-style: normal;
 		font-weight: 600;
-		src: url('PlayfairDisplay-Medium.ttf');
-		src: local(''), url('PlayfairDisplay-Medium.ttf') format('truetype');
+		src: url('/fonts/PlayfairDisplay-Medium.ttf');
+		src: local(''), url('/fonts/PlayfairDisplay-Medium.ttf') format('truetype');
 	}
 
 	p,
